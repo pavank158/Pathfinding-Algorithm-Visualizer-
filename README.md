@@ -1,5 +1,5 @@
 # Pathfinding-Algorithm-Visualizer-
-Pathfinding Algorithm Visualizer is all about how a DSA algorithm works we understand its working by visualizing it in a simple way.
+Pathfinding Algorithm Visualizer is all about how a DSA algorithms work, we understand its working by visualizing it in a simple way.
 there are multiple options to select Algorithm and types of speed to understand the process of working much better.
 Maze option is to check how the algorithm works in a different conditions.
 We can create a weighted wall for algorithm which supports weight by pressing W and selecting a grid.
